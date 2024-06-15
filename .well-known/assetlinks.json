@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.wRockstarGamesGallery_15894245",
+        "sha256_cert_fingerprints": [
+          "AF:24:40:CE:6E:2C:D6:DF:6C:59:4E:A0:98:35:5F:FF:22:38:7B:5D:8F:EF:6B:35:D7:8B:24:A2:5D:8E:0D:04"
+        ]
+      }
+    }
+  ]
